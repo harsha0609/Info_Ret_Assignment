@@ -1,5 +1,5 @@
-# CS7IS3-Assignment-1
-#### Dominique Meudec - 18327666
+# IR-Assignment-1
+#### Harsha Vardhan - 23331187
 
 This assignment uses Apache Lucence to index and search the Cranfield Collection.
 The project directory already includes the Cranfield collection, which can 
